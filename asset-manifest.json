@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kfc/static/css/main.6b1acb74.css",
+    "main.js": "/kfc/static/js/main.005531d0.js",
+    "static/media/logo3.png": "/kfc/static/media/logo3.8f87a2f93158f82b06d7.png",
+    "static/media/cart-empty.jpg": "/kfc/static/media/cart-empty.19daf4e79604b06d9ebe.jpg",
+    "static/media/logo.png": "/kfc/static/media/logo.4dae0fa72f1203491f95.png",
+    "index.html": "/kfc/index.html",
+    "main.6b1acb74.css.map": "/kfc/static/css/main.6b1acb74.css.map",
+    "main.005531d0.js.map": "/kfc/static/js/main.005531d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b1acb74.css",
+    "static/js/main.005531d0.js"
+  ]
+}
