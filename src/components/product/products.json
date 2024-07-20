@@ -1,0 +1,143 @@
+[
+    {
+        "id": "1",
+        "name": "Chicken Burger",
+        "desc": "Relish the Caribbean Spicy Zinger.",
+        "price": "99",
+        "image": "/images/1.jpg"
+    },
+    {
+        "id": "2",
+        "name": "All Chicken Box",
+        "desc":"A Box with your favorites! Get 1 pc Hot & Crispy, 2 Hot Wings & 1 Chicken Strip at a deal price.",
+        "price": "190",
+        "image": "/images/2.jpg"
+    },
+    {
+        "id": "3",
+        "name": "2Chicken Krisper Burgers",
+        "desc":"2 delicious chicken value burgers - at a deal price.",
+        "price": "249",
+        "image": "/images/3.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Bucket for Two",
+        "desc":"Flat Rs. 115 off on combo of 2pc Hot & Crispy, 2 pc Smoky Red Chicken & Large Popcorn.",
+        "price": "599",
+        "image": "/images/4.jpg"
+    },
+    {
+        "id": "5",
+        "name": "4pc Hot & Crispy Chicken",
+        "desc":"4 pcs of signature Hot & crispy chicken at a deal price.",
+        "price": "429",
+        "image": "/images/5.jpg"
+    },
+    {
+        "id": "6",
+        "name": "French Fries",
+        "desc": "Medium size Fries.",
+        "price": "99",
+        "image": "/images/6.jpg"
+    },
+    {
+        "id": "7",
+        "name": "All in One Bucket",
+        "desc":"1 Leg, 1 Hot & Crispy, 2 Wings, 2 Strips, 1 Zinger Fillet, 3 Dips [20gm each] & 1 Pepsi 475 ml.",
+        "price": "549",
+        "image": "/images/7.jpg"
+    },
+   
+    {
+        "id": "8",
+        "name": "Caribbean Spicy Zinger Burger & Popcorn Meal",
+        "desc":"Caribbean Spicy Zinger Burger with Medium Popcorn and Pepsi PET 475ml at a deal price.",
+        "price": "440",
+        "image": "/images/8.jpg"
+    },
+    {
+        "id": "9",
+        "name": "Mexican Zinger Pro Burger",
+        "desc":"Premium burger with crunchy chicken, Mexican Habanero sauce, cheese, tomato & onion.",
+        "price": "240",
+        "image": "/images/9.jpg"
+    },
+    {
+        "id": "10",
+        "name": "Indian Tandoori Zinger Burger",
+        "desc":"Grab Tandoori Zinger Burger with Onions & Tangy sauce.",
+        "price": "209",
+        "image": "/images/10.jpg"
+    },
+    {
+        "id": "11",
+        "name": "Zinger Tandoori Box",
+        "desc":"A deal for Tandoori lovers : Get 1 Tandoori Zinger, 2 Hot Wings, 1 Veg Patty & 1 Pepsi 475ml.",
+        "price": "315",
+        "image": "/images/11.jpg"
+    },
+    {
+        "id": "12",
+        "name": "Family Feast",
+        "desc":"Family Deal of 3 chicken zingers, med popcorn, med fries & 1 Pepsi 475ml.",
+        "price": "860",
+        "image": "/images/12.jpg"
+    },
+    {
+        "id": "13",
+        "name": "Chicken & Krispers combo",
+        "desc":"Deal of 2 chicken value burgers, 2 Hot & Crispy, 2 dips (20gm each) & 1 Pepsi 475ml.",
+        "price": "540",
+        "image": "/images/13.jpg"
+    },
+    {
+        "id": "14",
+        "name": "Buddy Meal",
+        "desc":"Share 2 Classic Chicken Zingers & a Medium Popcorn in this delightful combo for 2.",
+        "price": "529",
+        "image": "/images/14.jpg"
+    },
+    {
+        "id": "15",
+        "name": "Peri Peri 10 Leg pc & 4 Dips",
+        "desc":"Leg before any wicket! Save 27% on 10 Peri Peri Leg Pieces & 4 Dips (20 gm each).",
+        "price": "919",
+        "image": "/images/15.jpg"
+    },
+    {
+        "id": "16",
+        "name": "Mingles Bucket Meal",
+        "desc":"Save Rs. 71 on 4 Wings,2 Peri Strips, Reg Popcorn, Med Fries & 1 Pepsi 475ml.",
+        "price": "499",
+        "image": "/images/16.jpg"
+    },
+    {
+        "id": "17",
+        "name": "Double Chicken Roll Meal for 2",
+        "desc":"Deal combo of 2 Double Chicken Rolls, Large Fries, 2 Dips & Pepsi 475ml.",
+        "price": "549",
+        "image": "/images/17.jpg"
+    },
+    {
+        "id": "18",
+        "name": "Pepsi",
+        "desc":"Pepsi 475ml.",
+        "price": "35",
+        "image": "/images/18.jpg"
+    },
+    {
+        "id": "19",
+        "name": "Pepsi Black Can",
+        "desc":"Pepsi Black Can 300 ml.",
+        "price": "52",
+        "image": "/images/19.jpg"
+    },
+    {
+        "id": "20",
+        "name": "Mirinda Can",
+        "desc":"Mirinda Can 300 ml.",
+        "price": "56",
+        "image": "/images/20.jpg"
+    }
+]
